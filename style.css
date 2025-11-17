@@ -1,0 +1,13 @@
+body {
+    background-color: #fce4ec; /* svetlo roze */
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    color: #d81b60; /* tamno roze */
+}
+
+p {
+    font-size: 18px;
+}
